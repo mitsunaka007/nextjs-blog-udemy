@@ -37,7 +37,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>私はWordPressエンジニアとして活動しつつ、世の中にあるタスクを分解して共有するサービスを展開しています。</p>
+        <p>私はNextjsエンジニアとして活動しつつ、世の中にあるタスクを分解して共有するサービスを展開しています。</p>
       </section>
 
       <section>
